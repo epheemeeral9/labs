@@ -8,3 +8,4 @@
 
 ## Лабораторная работа 4-1. Сравнение подходов хранения больших данных
 - [отчет](https://github.com/epheemeeral9/labs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.1.pdf)
+- [скрипт](https://github.com/epheemeeral9/labs/blob/main/lb3_final.ipynb)
