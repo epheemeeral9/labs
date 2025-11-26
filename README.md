@@ -11,4 +11,4 @@
 - [скрипт](https://github.com/epheemeeral9/labs/blob/main/lb3_final.ipynb)
 
 ## Лабораторная работа 5.1. Развертывание и настройка Hadoop Анализ данных с использованием экосистемы Hadoop
-- [отчет](Лабораторная работа 5.1. Развертывание и настройка Hadoop Анализ данных с использованием экосистемы Hadoop)
+- [отчет](https://github.com/epheemeeral9/labs/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82%205.1.pdf)
